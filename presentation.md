@@ -33,7 +33,7 @@ theme: gaia
 
 An Overview of our Product and Tech-Stack
 
-*Tobias Hornberger - Staff Engineer*
+*Tobias Hornberger*
 
 ---
 
