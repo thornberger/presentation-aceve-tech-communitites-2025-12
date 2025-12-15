@@ -38,7 +38,7 @@ An Overview of our Product and Tech-Stack
 ---
 
 # History of Craftnote
-* Created as project-based group chat (think Teams channels with additional construction-specific data)
+* Created as project-based group chat (think Whatsapp groups with additional construction-specific data)
 * Investors: Fischer, GC Gruppe (later)
 * More features, more people
 * Aceve
